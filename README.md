@@ -10,5 +10,5 @@ installation of R and R studios
 # Day two 
 **introduction to command line**
 
-# Day 3
+# Day three
 **introduction to git** 
