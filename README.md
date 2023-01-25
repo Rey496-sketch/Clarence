@@ -5,10 +5,10 @@ I will write on bioinformatics workshop we have from 23third to 27 th january 20
 **instalation of tools**
 
 **install git bash**
-*installation of R and R studios* 
+installation of R and R studios 
 
 # Day two 
 **introduction to command line**
 
 # Day 3
-introduction to git 
+**introduction to git** 
